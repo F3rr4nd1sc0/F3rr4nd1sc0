@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @F3rr4nd1sc0
-- 👀 I’m interested in ...
+- 👀 I’m interested in Osint
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Osint Project
 
